@@ -1,2 +1,2 @@
 #java-repository
-git test megre
+git test megre master-test
